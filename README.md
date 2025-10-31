@@ -76,7 +76,7 @@ Kết quả:
 - File đã ký
 <img width="1920" height="1080" alt="Screenshot (38)" src="https://github.com/user-attachments/assets/bad61517-bb30-4556-bd2f-ee0878db3b84" />
 
-- Phần báo giả mão đang bị lỗi, không tiện show lên.
+- Phần báo giả mạo đang bị lỗi, không tiện show lên.
 <img width="1920" height="1080" alt="Screenshot (39)" src="https://github.com/user-attachments/assets/6407890f-d53c-4cda-9984-b78a6b7a6a6b" />
 
 # Sẽ sửa lỗi vào cài đặt lại sớm nhất có thể
